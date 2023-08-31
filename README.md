@@ -17,6 +17,7 @@ Beyond just the ones and zeros, I possess the intangible traits that bring visio
 Join me as I explore the data cosmos, one query at a time, one model at a time, and one insight at a time. Together, we'll unravel the endless possibilities that lie within the world of ones and zeros. Connect, collaborate, and let's shape the future fueled by data-driven brilliance!
 
 🌌 Let's Connect:
+
 GitHub: [https://github.com/WachiraChris]
 
 LinkedIn: [https://www.linkedin.com/in/chris-wachira-7348b3184/]
