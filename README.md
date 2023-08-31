@@ -18,8 +18,11 @@ Join me as I explore the data cosmos, one query at a time, one model at a time, 
 
 🌌 Let's Connect:
 GitHub: [https://github.com/WachiraChris]
+
 LinkedIn: [https://www.linkedin.com/in/chris-wachira-7348b3184/]
+
 Email: [wachirachris1@gmail.com]
+
 Website: [Working on this, will be up soon]
 
 #DataEngineer #MachineLearning #DatabaseMaestro #AnalyticsWizard
